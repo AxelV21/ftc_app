@@ -66,6 +66,7 @@ public class FtcOpModeRegister implements OpModeRegister {
     manager.register ("Red Auto", AutoTestOpRed1.class);
     manager.register ("Red Auto Long", AutoTestOpRedLong.class);
     manager.register ("Blue Auto Long", AutoTestOpBlueLong.class);
+    manager.register ("Preseason Test", PreSeason_Test.class);
     /*
      * Uncomment any of the following lines if you want to register an op mode.
      */
